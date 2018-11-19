@@ -1,1 +1,1 @@
-icacls "E:\XL\mumÂÜÀòÏµÁĞ\*.*" /grant Users:(F)
+icacls "E:\XL\IPZ\*.*" /grant Users:(F)

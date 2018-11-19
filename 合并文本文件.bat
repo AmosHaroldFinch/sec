@@ -1,1 +1,1 @@
-type *.txt > ÈýÅÌ¼¯ºÏ.txt
+type *.txt > newname.txt
