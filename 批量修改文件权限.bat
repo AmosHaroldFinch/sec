@@ -1,0 +1,1 @@
+icacls "E:\XL\mumÂÜÀòÏµÁĞ\*.*" /grant Users:(F)
